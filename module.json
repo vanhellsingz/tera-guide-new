@@ -1,0 +1,12 @@
+{
+    "name": "Tera-Guide",
+    "options": {
+        "niceName": "Copy Tip",
+        "guiName": "Copy Tip(Tera-Guide)"
+    },
+    "author": "(TRANSLATE VANHELLSING)",
+    "description": "Provide [skill] auxiliary text hints for common copies of TERA",
+    "servers": ["https://raw.githubusercontent.com/tera-mod/Tera-Guide/master/"],
+    "supportUrl": "https://github.com/tera-mod/Tera-Guide/issues",
+    "version": "91.04"
+}
