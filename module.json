@@ -6,7 +6,7 @@
     },
     "author": "(TRANSLATE VANHELLSING)",
     "description": "Provide [skill] auxiliary text hints for common copies of TERA",
-    "servers": ["https://raw.githubusercontent.com/tera-mod/Tera-Guide/master/"],
-    "supportUrl": "https://github.com/tera-mod/Tera-Guide/issues",
+    "servers": ["https://github.com/vanhellsingz/tera-guide-new/"],
+    "supportUrl": "https://github.com/vanhellsingz/tera-guide-new/issues",
     "version": "91.04"
 }
